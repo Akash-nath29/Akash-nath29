@@ -40,6 +40,7 @@ If you'd like to get in touch with me, feel free to reach out through any of the
 - **Email:** [akash@example.com](mailto:akash@example.com)
 - **Instagram:**[akash_nath29](https://www.instagram.com/akash_nath29/)
 - **Twitter:** [@AkashNath](https://twitter.com/AkashNath)
+- **FaceBook:**[Akash Nath](profile.php?id=100086780768687)
 
 I'm always open to new opportunities, collaborations, and discussions. Don't hesitate to reach out—I'd love to hear from you!
 
