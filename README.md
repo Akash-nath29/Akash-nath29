@@ -30,7 +30,7 @@ Here are some noteworthy projects I've worked on:
 - **[BuzzHub](https://github.com/Akash-nath29/BuzzHub):** A vibrant and interactive Flask-based web application that enables users to share their thoughts, engage with posts, and build a thriving community.
 - **[Portfolio Website](https://github.com/Akash-nath29/Portfolio-Website):** An exquisite showcase of my skills, projects, and achievements, serving as a hub for visitors to learn more about my work.
 - **[Trackify](https://github.com/Akash-nath29/Trackify):** A programe to get data of a SIM card just by providing the mobile number with countrycode.
-- **[Editorrr](https://github.com/Akash-nath29/Editorrr):** An online live code editor made with HTML, CSS & JS. To use -> [Editorrr](https://tinyurl.com/Editorrr)
+- **[Editorrr](https://github.com/Akash-nath29/Editorrr):** An online live code editor made with HTML, CSS & JS. To use -> [Editorrr](https://akash-nath29.github.io/Editorrr/)
 
 These are just a taste of my diverse project portfolio. Dive in and explore more repositories on my GitHub profile!
 
