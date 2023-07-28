@@ -32,6 +32,7 @@ Here are some noteworthy projects I've worked on:
 - **[Trackify](https://github.com/Akash-nath29/Trackify):** A programe to get data of a SIM card just by providing the mobile number with countrycode.
 - **[Editorrr](https://github.com/Akash-nath29/Editorrr):** An online live code editor made with HTML, CSS & JS. To use -> [Editorrr](https://akash-nath29.github.io/Editorrr/)
 - **[ChirpApp](https://github.com/Akash-nath29/ChirpApp):** An Online Realtime Chatting App made with Flask and SocketIO
+- **[BlogOnit](https://github.com/Akash-nath29/BlogOnit):** An Online Blogging Application made with Django (Under Developement)
 
 These are just a taste of my diverse project portfolio. Dive in and explore more repositories on my GitHub profile!
 
