@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Akash-nath29/Akash-nath29/main/assets/banner.png" alt="Akash-nath29" width="800px">
-</h1>
-
 <p align="center">
   <b>Welcome to My GitHub Profile!</b>
 </p>
@@ -9,10 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg" alt="Version">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akash-nath29/Akash-nath29/main/assets/screenshot.png" alt="Akash-nath29 Screenshot">
 </p>
 
 ## 🚀 Introduction
