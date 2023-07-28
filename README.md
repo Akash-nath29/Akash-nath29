@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Akash Nath, a passionate software developer wi
 
 ## 💡 About Me
 
-I am a driven individual who thrives on challenges and is constantly pushing the boundaries of my knowledge. With a strong focus on web development, machine learning. I bring a diverse skill set to the table. I love exploring new technologies, staying up-to-date with the latest trends, and solving complex problems with elegant solutions.
+I am a student and a driven individual who thrives on challenges and is constantly pushing the boundaries of my knowledge. With a strong focus on web development, Artificial Intelligence. I bring a diverse skill set to the table. I love exploring new technologies, staying up-to-date with the latest trends, and solving complex problems with elegant solutions.
 
 ## 🔥 Projects
 
@@ -32,7 +32,7 @@ These are just a taste of my diverse project portfolio. Dive in and explore more
 
 If you'd like to get in touch with me, feel free to reach out through any of the following channels:
 
-- **Email:** [akash@example.com](mailto:akash@example.com)
+- **Email:** [anath5440@gmail.com](mailto:anath5440@gmail.com)
 - **Instagram:**[akash_nath29](https://www.instagram.com/akash_nath29/)
 - **Twitter:** [@AkashNath](https://twitter.com/AkashNath)
 - **FaceBook:**[Akash Nath](profile.php?id=100086780768687)
