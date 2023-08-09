@@ -1,42 +1,31 @@
-<p align="center">
-  <b>Welcome to My GitHub Profile!</b>
+<h1 align="center">Hi 👋, I'm Akash Nath</h1>
+<h3 align="center">A passionate developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-nath29&label=Profile%20views&color=0e75b6&style=flat" alt="akash-nath29" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-nath29" alt="akash-nath29" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/anath5440" target="blank"><img src="https://img.shields.io/twitter/follow/anath5440?logo=twitter&style=for-the-badge" alt="anath5440" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://tinyurl.com/akash-nath](https://tinyurl.com/akash-nath)
+
+- 📫 How to reach me **anath5440@gmail.com**
+
+- 📄 Know about my experiences [https://tinyurl.com/akash-nath](https://tinyurl.com/akash-nath)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anath5440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anath5440" height="30" width="40" /></a>
+<a href="https://fb.com/akash nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash nath" height="30" width="40" /></a>
+<a href="https://instagram.com/akash_nath29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_nath29" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/typeerror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="typeerror" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg" alt="Version">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## 🚀 Introduction
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-nath29&show_icons=true&locale=en&layout=compact" alt="akash-nath29" /></p>
 
-Welcome to my GitHub profile! I'm Akash Nath, a passionate software developer with a flair for creating innovative solutions. Here, you'll find an array of projects and contributions that showcase my skills, interests, and dedication to the world of programming. Feel free to explore, discover, and collaborate. Let's connect and make amazing things together!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-nath29&show_icons=true&locale=en" alt="akash-nath29" /></p>
 
-## 💡 About Me
-
-I am a student and a driven individual who thrives on challenges and is constantly pushing the boundaries of my knowledge. With a strong focus on web development, Cyber Security. I bring a diverse skill set to the table. I love exploring new technologies, staying up-to-date with the latest trends, and solving complex problems with elegant solutions.
-
-## 🔥 Projects
-
-Here are some noteworthy projects I've worked on:
-
-- **[BuzzHub](https://github.com/Akash-nath29/BuzzHub):** A vibrant and interactive Flask-based web application that enables users to share their thoughts, engage with posts, and build a thriving community.
-- **[Portfolio Website](https://github.com/Akash-nath29/portFolioWebsite):** An exquisite showcase of my skills, projects, and achievements, serving as a hub for visitors to learn more about my work.
-- **[Trackify](https://github.com/Akash-nath29/Trackify):** A programe to get data of a SIM card just by providing the mobile number with countrycode.
-- **[Editorrr](https://github.com/Akash-nath29/Editorrr):** An online live code editor made with HTML, CSS & JS. To use -> [Editorrr](https://akash-nath29.github.io/Editorrr/)
-- **[ChirpApp](https://github.com/Akash-nath29/ChirpApp):** An Online Realtime Chatting App made with Flask and SocketIO
-- **[BlogOnit](https://github.com/Akash-nath29/BlogOnit):** An Online Blogging Application made with Django (Under Developement)
-
-These are just a taste of my diverse project portfolio. Dive in and explore more repositories on my GitHub profile!
-
-## 📞 Let's Connect
-
-If you'd like to get in touch with me, feel free to reach out through any of the following channels:
-
-- **Email:** [anath5440@gmail.com](mailto:anath5440@gmail.com)
-- **Instagram:** [akash_nath29](https://www.instagram.com/akash_nath29/)
-- **Twitter:** [@AkashNath](https://twitter.com/AkashNath)
-- **FaceBook:** [Akash Nath](profile.php?id=100086780768687)
-
-I'm always open to new opportunities, collaborations, and discussions. Don't hesitate to reach out—I'd love to hear from you!
-
-Thank you for visiting my profile! Let's create something extraordinary together! 🚀✨
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-nath29&" alt="akash-nath29" /></p>
