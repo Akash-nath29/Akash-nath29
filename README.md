@@ -4,7 +4,7 @@ Welcome to my vibrant corner of the GitHub universe! 🚀 Here, I'm all about co
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Akash-nath29)
 [![GitHub followers](https://img.shields.io/github/followers/Akash-nath29?label=Followers&style=social)](https://github.com/Akash-nath29)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Akash_nath29?style=social)](https://twitter.com/Akash_nath29)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anath5440?style=social)](https://twitter.com/anath5440)
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-nath29&theme=onestar&no-bg=true&no-frame=true&margin-h=15&column=3" alt="akash-nath29" /></a></p>
 
 ## 📌 About Me
