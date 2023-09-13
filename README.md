@@ -28,7 +28,7 @@ I love working with a palette of cutting-edge technologies:
 
 Dive into my colorful projects, where imagination meets innovation:
 
-- [PortFolio](https://tinyurl.com/akash-nath): An exclusive and colorful showcase of my work.
+- [PortFolio](https://akashnath.netlify.app/): An exclusive and colorful showcase of my work.
 - [TextTunes](https://github.com/Akash-nath29/textTunes): Experience audiobooks with a splash of color and technology.
 - [BlogOnit](https://github.com/Akash-nath29/BlogOnit): A Django based blogging site to discover the writer into yourself.
 - [SarcasmBot](https://github.com/Akash-nath29/SarcasmBot): A Sarcastic AI Chatbot who thinks he is getting ignored and none recognises him.
