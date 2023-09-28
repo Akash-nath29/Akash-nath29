@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Akash Nath
+# Hey there! 👋 I'm [Akash Nath](https://akashnath.netlify.app)
 
 Welcome to my vibrant corner of the GitHub universe! 🚀 Here, I'm all about coding, creativity, and continuous learning. Let's dive into the colorful world of tech and exploration!
 
