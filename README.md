@@ -18,6 +18,7 @@ I'm a passionate software developer with a love for creating cool stuff using co
 ## 💻 Tech Stack
 
 I love working with a palette of cutting-edge technologies:
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,vim,bootstrap,django,flask,netlify)](https://skillicons.dev)
 
 - **Languages:** JavaScript, Python, Java
 - **Frontend:** HTML, CSS, JavaScript
@@ -43,6 +44,12 @@ Find me on different platforms and let's create something amazing together:
 - [Instagram](https://www.instagram.com/invites/contact/?i=121yixtsyifc8&utm_content=hblizqj)
 - [Facebook](https://www.facebook.com/profile.php?id=100086780768687)
 - [Twitter](https://twitter.com/anath5440?t=qgwzUie9kfQVU0T9VSQn1Q&s=09)
+
+  
+  # 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash-nath29&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akash-nath29&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akash-nath29&theme=github_dark)
 
 ## 🚀 Join the Journey
 
