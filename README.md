@@ -18,7 +18,7 @@ I'm a passionate software developer with a love for creating cool stuff using co
 ## 💻 Tech Stack
 
 I love working with a palette of cutting-edge technologies:
--
+
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,vim,bootstrap,django,flask,netlify)](https://skillicons.dev)
 
 - **Languages:** JavaScript, Python, Java
