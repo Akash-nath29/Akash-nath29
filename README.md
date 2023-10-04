@@ -47,7 +47,7 @@ Find me on different platforms and let's create something amazing together:
 - [Twitter](https://twitter.com/anath5440?t=qgwzUie9kfQVU0T9VSQn1Q&s=09)
 
   
-  # 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash-nath29&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akash-nath29&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akash-nath29&theme=github_dark)
