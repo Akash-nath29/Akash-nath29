@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm [Akash Nath](https://akashnath.netlify.app)
 
-Welcome to my vibrant corner of the GitHub universe! 🚀 Here, I'm all about coding, creativity, and continuous learning. Let's dive into the colorful world of tech and exploration!
+##Code, Create, Conquer
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Akash-nath29)
 [![GitHub followers](https://img.shields.io/github/followers/Akash-nath29?label=Followers&style=social)](https://github.com/Akash-nath29)
