@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm [Akash Nath](https://akashnath.netlify.app)
 
-## Code, Create, Conquer
+<h2>Code, Create, Conquer</h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/Akash-nath29?label=Followers&style=social)](https://github.com/Akash-nath29)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anath5440?style=social)](https://twitter.com/anath5440)
