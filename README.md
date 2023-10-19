@@ -50,6 +50,7 @@ Find me on different platforms and let's create something amazing together:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash-nath29&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akash-nath29&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akash-nath29&theme=github_dark)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-nath29&show_icons=true&theme=github_dark)
 
 ## 🚀 Join the Journey
 
