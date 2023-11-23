@@ -4,6 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Akash-nath29?label=Followers&style=social)](https://github.com/Akash-nath29)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anath5440?style=social)](https://twitter.com/anath5440)
+<img src="https://komarev.com/ghpvc/?username=Akash-nath29&label=Stalked%20by&color=02f28a&style=flat" alt="Akash-nath29" />
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-nath29&theme=onestar&no-bg=true&no-frame=true&margin-h=15&column=4" alt="akash-nath29" /></a></p>
 
 ## 📌 About Me
