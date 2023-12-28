@@ -41,10 +41,28 @@ Dive into my colorful projects, where imagination meets innovation:
 
 Find me on different platforms and let's create something amazing together:
 
-- [GitHub](https://github.com/Akash-nath29)
-- [Instagram](https://www.instagram.com/invites/contact/?i=121yixtsyifc8&utm_content=hblizqj)
-- [Facebook](https://www.facebook.com/profile.php?id=100086780768687)
-- [Twitter](https://twitter.com/anath5440?t=qgwzUie9kfQVU0T9VSQn1Q&s=09)
+<div align="center">
+<a href="https://github.com/Akash-nath29" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/anath5440" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/akash-nath29" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://wa.me/+919832115836" target="_blank">
+<img src=https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" /> 
+</a>
+<a href="https://www.facebook.com/profile.php?id=100086780768687" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/akash_nath29" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@TypeError404" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
 
   
 ## 📊 GitHub Stats:
