@@ -30,6 +30,7 @@ I love working with a palette of cutting-edge technologies:
 
 Dive into my colorful projects, where imagination meets innovation:
 
+- [NotesWallah](https://noteswallah.is-a.dev): A Flask based study material sharing platform with robust user management, sclable environment and ultimate User Experience.
 - [PortFolio](https://akashnath.netlify.app/): An exclusive and colorful showcase of my work.
 - [TextTunes](https://github.com/Akash-nath29/textTunes): Experience audiobooks with a splash of color and technology.
 - [BlogOnit](https://github.com/Akash-nath29/BlogOnit): A Django based blogging site to discover the writer into yourself.
