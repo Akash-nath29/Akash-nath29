@@ -19,7 +19,7 @@ I'm a passionate software developer with a love for creating cool stuff using co
 
 I love working with a palette of cutting-edge technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,vim,bootstrap,django,flask,netlify,react,numpy,scikit-learn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,c,html,css,git,github,vscode,vim,bootstrap,tailwind,django,flask,bash,react,pytorch)](https://skillicons.dev)
 
 - **Languages:** JavaScript, Python, Java
 - **Frontend:** HTML, CSS, JavaScript
