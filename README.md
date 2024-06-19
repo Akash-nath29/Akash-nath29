@@ -21,10 +21,10 @@ I love working with a palette of cutting-edge technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,c,html,css,git,github,vscode,vim,bootstrap,tailwind,django,flask,bash,react,pytorch)](https://skillicons.dev)
 
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** HTML, CSS, JavaScript
+- **Languages:** JavaScript, Python, C
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind
 - **Backend:** Django, Flask
-- **Tools:** Git, VS Code, Adobe XD, Adobe Photoshop
+- **Tools:** Git, VS Code, PyTorch, Vim, Bash
 
 ## 🌟 Projects
 
