@@ -46,13 +46,13 @@ Find me on different platforms and let's create something amazing together:
 <a href="https://github.com/Akash-nath29" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/anath5440" target="_blank">
+<a href="https://twitter.com/akash_nath29" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/akash-nath29" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://wa.me/+919832115836" target="_blank">
+<a href="https://wa.me/+917866982273" target="_blank">
 <img src=https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" /> 
 </a>
 <a href="https://www.facebook.com/profile.php?id=100086780768687" target="_blank">
