@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Akash Nath](https://akashnath.netlify.app)
+# Hey there! 👋 I'm [Akash Nath](https://www.akashnath.me)
 
 <h2>Code 💻, Create 🚀, Conquer 👑</h2>
 
